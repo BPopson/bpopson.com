@@ -4,7 +4,7 @@
     <title>Posts on Brandon&#39;s Ramblings</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Brandon&#39;s Ramblings</description>
-    <generator>Hugo -- 0.143.1</generator>
+    <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Feb 2025 13:17:33 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,8 @@
       <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Fri, 07 Feb 2025 13:17:33 -0500</pubDate>
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello World&lt;/h2&gt;
-&lt;p&gt;Nothing to see here&amp;hellip; yet&lt;/p&gt;</description>
+      <description>&lt;p&gt;Nothing to see here&amp;hellip;&lt;/p&gt;
+&lt;p&gt;yet&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
